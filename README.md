@@ -5,4 +5,7 @@ This app takes input as-Departure station code
                        -Date
 when you press "find trians" it gives a list of trains between these two stations on this given date and also it gives price for every catagery .By this page we can go directly to the irctc site.
 
+version2.py is working  but train enquiry version2 is not working
+
+
 thanks
